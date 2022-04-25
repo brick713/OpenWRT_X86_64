@@ -24,7 +24,7 @@
 
 ## 使用方法
 
-- 下载相关版本固件[Release](https://github.com/brick713/OpenWRT_X86_64/releases)
+- 下载相关版本固件 [Release](https://github.com/brick713/OpenWRT_X86_64/releases)
 - 在软路由 Web 端直接上传固件升级，或使用命令行`sysupgrade -v xxxx.img`
 
 
