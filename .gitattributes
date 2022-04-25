@@ -1,1 +1,0 @@
-openwrt-x86-64-generic-squashfs-combined-efi.img filter=lfs diff=lfs merge=lfs -text
