@@ -11,17 +11,21 @@
 该项目基于个人喜好，删除了大部分不需要使用的插件，编译过程中主要添加了以下插件（部分必要插件不做说明）。
 
 - OpenClash
-- Docker
-- Docker-CE
 - Turbo ACC
 - ServerChan
 - 动态 DNS
 - KMS 服务器
 - UPnP
+- Stroe
+- advanced
 
 ~~- 阿里云盘 FUSE~~
 
 ~~- 阿里云盘 WebDAV~~
+
+~~- Docker~~
+
+~~- Docker-CE~~
 
 
 ## 使用方法
