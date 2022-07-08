@@ -16,8 +16,10 @@
 - 动态 DNS
 - KMS 服务器
 - UPnP
-- Stroe
-- advanced
+
+~~- Stroe~~
+
+~~- advanced~~
 
 ~~- 阿里云盘 FUSE~~
 
